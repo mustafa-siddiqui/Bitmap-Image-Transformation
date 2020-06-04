@@ -8,3 +8,13 @@ It uses C File I/O to perform read and write operations on the bitmap file. Sinc
 - [Bitmap File Header](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-bitmapfileheader)
 - [Bitmap Info Header](https://docs.microsoft.com/en-us/previous-versions//dd183376(v=vs.85)?redirectedfrom=MSDN)
 - [RGB to HSV Conversion](https://www.rapidtables.com/convert/color/rgb-to-hsv.html)
+
+#### Sample Result:
+
+Original Picture:
+
+![red_tele.bmp](https://raw.githubusercontent.com/mustafa-siddiqui/bitmap-image-transformation/master/src/Implementation-1/red_tele.bmp)
+
+Converted Picture:
+
+![retest.bmp](https://raw.githubusercontent.com/mustafa-siddiqui/bitmap-image-transformation/master/src/Implementation-1/retest.bmp)
