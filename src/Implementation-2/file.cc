@@ -1,7 +1,6 @@
 /** @file   file.cc
- *  @brief  This file contains the definition of the function 
- *          which checks for overwriting the image file:
- *          overwriteOrNot()
+ *  @brief  This file contains the definition of the functions
+ *          defined in file.h
  *  @author Mustafa Siddiqui
  *  @date   06/03/2020
  */
