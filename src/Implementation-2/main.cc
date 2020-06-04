@@ -17,8 +17,8 @@
 
 /** @fn     main(int argc, char* argv[])
  *  @brief  Main function of the program which reads the bitmap image file and 
- *          changes its colors in either a new file or the same file using the 
- *          Pixel class defined in bmp.h.
+ *          changes its colors in a new file using the Pixel class defined in
+ *          bmp.h
  *  @return An integer when successfully run.
  */
 int main(int argc, char* argv[]) {
