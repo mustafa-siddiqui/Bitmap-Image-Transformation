@@ -4,7 +4,7 @@ This implementation works by having two classes - for an individual pixel and th
 
 It uses C File I/O to perform read and write operations on the bitmap file. Since `fwrite()` and `fread()` cannot work with user-defined data types, the data has to be first read into an `unsigned char` array and then transferred into the object. The class's methods are written accordingly.
 
-### Links consulted:
+#### Links consulted:
 - [Bitmap File Header](https://docs.microsoft.com/en-us/windows/win32/api/wingdi/ns-wingdi-bitmapfileheader)
 - [Bitmap Info Header](https://docs.microsoft.com/en-us/previous-versions//dd183376(v=vs.85)?redirectedfrom=MSDN)
 - [RGB to HSV Conversion](https://www.rapidtables.com/convert/color/rgb-to-hsv.html)
