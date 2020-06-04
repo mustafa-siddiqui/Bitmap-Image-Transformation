@@ -10,7 +10,6 @@
 #ifndef FILE_H
 #define FILE_H
 
-  
 /* bmp.h has the necessary libraries already included in it */
 #include "bmp.h"
 
