@@ -15,7 +15,8 @@ It also ensures that file names entered by the user are verified (in the specifi
 #### Sample Result:
 
 Original picture:
-![tiger](https://github.com/mustafa-siddiqui/bitmap-image-transformation/blob/master/src/Implementation-2/tiger.jpg)
+
+![tiger](https://raw.githubusercontent.com/mustafa-siddiqui/bitmap-image-transformation/master/src/Implementation-2/tiger.bmp)
 
 Transformed Picture: (Orange chosen to be kept)
 ![out](https://github.com/mustafa-siddiqui/bitmap-image-transformation/blob/master/src/Implementation-2/out.jpg)
