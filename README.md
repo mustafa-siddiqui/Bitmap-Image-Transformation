@@ -1,8 +1,7 @@
-# Bitmap-Image-Transformation
+# Bitmap Image Transformation
 This repository contains 2 implementations of the code.
 1. The whole image is stored as an object
 2. Colors are inverted pixel by pixel using a pixel object
-    - C++ file streams are used in this implementation as well
 
 The code is to change the color of a pure bitmap image file. It keeps one color specified by the user and converts the rest of the image to greyscale.
 
