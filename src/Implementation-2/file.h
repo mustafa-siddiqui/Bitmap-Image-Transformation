@@ -1,5 +1,8 @@
 /** @file   file.h
- *  @brief  Header file containing definitions for functions that check if 
+ *  @brief  Header file containing definitions for functions that check if the input
+ *          and output file names are same and if the filename entered by the user is
+ *          in the appropriate format, and to verify that the image specifications are
+ *          in line with what's required (pure bitmap image).
  *  @author Mustafa Siddiqui
  *  @date   06/03/2020
  */
