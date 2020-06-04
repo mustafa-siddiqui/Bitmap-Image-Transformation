@@ -19,4 +19,5 @@ Original picture:
 ![tiger.bmp](https://raw.githubusercontent.com/mustafa-siddiqui/bitmap-image-transformation/master/src/Implementation-2/tiger.bmp)
 
 Transformed Picture: (Orange chosen to be kept)
+
 ![out.bmp](https://raw.githubusercontent.com/mustafa-siddiqui/bitmap-image-transformation/master/src/Implementation-2/out.bmp)
