@@ -11,3 +11,13 @@ It also ensures that file names entered by the user are verified (in the specifi
 - [Bitmap Info Header](https://docs.microsoft.com/en-us/previous-versions//dd183376(v=vs.85)?redirectedfrom=MSDN)
 - [RGB to HSV Conversion](https://www.rapidtables.com/convert/color/rgb-to-hsv.html)
 - [C++ File Streams](http://www.cplusplus.com/doc/tutorial/files/)
+
+#### Sample Result:
+
+Original picture:
+![tiger.bmp]
+(https://github.com/mustafa-siddiqui/bitmap-image-transformation/blob/master/src/Implementation-2/tiger.bmp)
+
+Transformed Picture: (Orange chosen to be kept)
+![out.bmp]
+(https://github.com/mustafa-siddiqui/bitmap-image-transformation/blob/master/src/Implementation-2/out.bmp)
